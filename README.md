@@ -1,2 +1,9 @@
 # ravenlink
-IOT gateway for industrial. Digital transformation for everyone.
+RavenLink by TrungTauLua
+
+Project Codes:
+
+G - Industrial IOT Gateways
+T - Drone Telemetry Hardwares
+L - Localization Systems
+AVM - Automobile Around View Monitoring Systems
